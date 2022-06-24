@@ -7,4 +7,3 @@ Experienced energy engineers can apply these modules to support numerous types o
 - identification of heat recovery opportunities 
 - appropriate placement (source and sink) and sizing of heat pumps including mechanical vapour recompression
 - the use of the utility distribution system for side wide heat recovery
-If you need to upskill, come and join our industry short course that teaches pinch analysis using the Open Pinch Toolkit.
